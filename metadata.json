@@ -1,0 +1,9 @@
+{ 
+"name": "DIDLab Hackathon Badge (Solo)", 
+"description": "70-minute solo proof-of-build", 
+"image": "ipfs://QmWao3fJcL9uZR8MSEDJxcFfkJzraKSkoW5T6sg5XD2p8m", 
+"attributes": [ 
+{"trait_type":"wallet","value":"0xE1d7Cf78757971A94Eb2C0A72329D84FED062339"}, 
+{"trait_type":"repo","value":"add-after-push"} 
+] 
+} 
